@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidPrensibleri", "SolidPrensibleri\SolidPrensibleri.csproj", "{BA729871-17B5-4217-AF23-43F64EA9FB34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA729871-17B5-4217-AF23-43F64EA9FB34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA729871-17B5-4217-AF23-43F64EA9FB34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA729871-17B5-4217-AF23-43F64EA9FB34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA729871-17B5-4217-AF23-43F64EA9FB34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4047BCB0-15DA-4F4A-8F43-ECBE13791A2E}
+	EndGlobalSection
+EndGlobal
